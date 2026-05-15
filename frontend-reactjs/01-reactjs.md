@@ -1,4 +1,4 @@
-### 1. What is React and why is it efficient?
+## 1. What is React and why is it efficient?
 
 React is a JavaScript library used for building user interfaces,
 especially single-page applications. It allows developers to
@@ -18,7 +18,7 @@ and easier debugging. React also supports one-way data binding,
 making data flow predictable and easier to manage in large
 applications.
 
-### 2. How does React work internally?
+## 2. How does React work internally?
 
 React works internally using a component-based architecture
 and a Virtual DOM mechanism.
