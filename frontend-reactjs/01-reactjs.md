@@ -45,7 +45,7 @@
 
 ## 3. explain Virtual DOM in react and how it improves performance
 
-    React uses a Virtual DOM, which is a lightweight JavaScript representation of the real DOM. When state changes, React creates a new Virtual DOM tree and compares it with the previous one using a diffing algorithm. It identifies only the changed elements and updates only those parts in the real DOM. This minimizes expensive DOM operations and improves rendering performance.
+React uses a Virtual DOM, which is a lightweight JavaScript representation of the real DOM. When state changes, React creates a new Virtual DOM tree and compares it with the previous one using a diffing algorithm. It identifies only the changed elements and updates only those parts in the real DOM. This minimizes expensive DOM operations and improves rendering performance.
 
     Updating the real DOM is expensive because:
     - Browser must recalculate layout
